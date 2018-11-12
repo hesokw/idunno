@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "happyheesoo1",
+"dataUrl": "webvr publish.data.unityweb",
+"wasmCodeUrl": "webvr publish.wasm.code.unityweb",
+"wasmFrameworkUrl": "webvr publish.wasm.framework.unityweb",
+"TOTAL_MEMORY": 637534208,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
